@@ -1,0 +1,18 @@
+bug report structure:
+
+Id 
+Title 
+Summary 
+Project 
+Component 
+Version 
+Severity 
+Priority 
+Status 
+Author 
+Assigned To 
+Surround 
+Steps to Reproduce 
+Result 
+Expected Result 
+Attachment
